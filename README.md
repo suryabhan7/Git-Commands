@@ -8,7 +8,7 @@ Useful git command for daily use
  - git reset FILE_NAME.extension  (Unstage file froms staging area)
  - git commit -m "meaningful comment"
  - git branch -M master  (Create master branch)
- - git remote add origin https://github.com/sadabnepal/GitCommands.git  (add remote url to local)
+ - git remote add origin https://github.com/suryabhan7/Git-Commands.git  (add remote url to local)
  - git push -u origin master  (push newly created master branch to remote)
  - git pull (pull changes from remote to local)
 
@@ -25,7 +25,7 @@ Useful git command for daily use
 ### Git config
  - git config --list  (view all config setting)
  - git config --global user.name "Your name"
- - git config --global user.email "yourname@provider.com"
+ - git config --global user.email "suryabhansingh1998@gmail.com"
  
 ### Local and remote repp
  - git remote -v (list all linked remote repo)
